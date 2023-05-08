@@ -16,6 +16,7 @@ live_loop :test1 do
   synth :prophet, note: a, cutoff: b, sustain: c
 end
 
+
 live_loop :test2 do
   use_real_time
   a, b, c = sync "/osc*/trigger/pulse"
