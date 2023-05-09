@@ -15,7 +15,8 @@ This readMe keeps it short with just the key information on usage. To read more,
 - A computer that can connect to your USB-C cable 
 - A breadboard
 - A joystick that can connect to the breadboard
-- A button that can connect to the breadboard
+- A button that can connect to the breadboar
+- - wires to connect components on the breadboard
 
 <br />
 
