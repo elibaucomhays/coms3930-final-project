@@ -1,7 +1,7 @@
 # coms3930-final-project
 
 <p align="center">
-  <img width="300" height="400" src="/finalprojectdemo.jpg">
+  <img width="300" height="400" src="/finalprojectdemo.png">
 </p>
 
 This readMe keeps it short with just the key information on usage. To read more, check out my [blog](https://www.notion.so/Final-Project-2d60b81b1ed6494ebbba6a5292fcaf32?pvs=4)!
